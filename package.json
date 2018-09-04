@@ -1,0 +1,32 @@
+{
+  "name": "decentralizedhacks",
+  "version": "1.0.0",
+  "description": "A list of known hacks in smart contracts and other decentralized proejcts",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyplouis/decentralizedhacks.git"
+  },
+  "keywords": [
+    "smart",
+    "contracts",
+    "decentralized",
+    "hacks"
+  ],
+  "author": "Ricardo Pierre-Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickyplouis/decentralizedhacks/issues"
+  },
+  "homepage": "https://github.com/rickyplouis/decentralizedhacks#readme",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
