@@ -17,14 +17,14 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - Date: June 17, 2016
 - [Contract Drained](https://www.coindesk.com/understanding-dao-hack-journalists/)
 
-### Parity (Multi-sig)
-- Amount: 
-- Date:
-- [Source](https://paritytech.io/the-multi-sig-hack-a-postmortem/)
+### Parity (Drain Contracts)
+- Amount: 153,037 ETH
+- Date: June 19, 2017
+- [Source](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7)
 
-
-### Parity (Devops199)
-- Amount:
-- Date: 
-- [Source](https://medium.com/cybermiles/i-accidentally-killed-it-and-evaporated-300-million-6b975dc1f76b)
+### Parity (Devops199 / Killall)
+- Amount: 500,000 ETH
+- Date: Nov 6, 2017
+- [Source](https://www.trustnodes.com/2017/11/07/exclusive-parity-hacker-claims-ethereum-newbie-interview)
+- [Github](https://github.com/paritytech/parity-ethereum/issues/6995)
 
