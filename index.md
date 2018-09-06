@@ -43,3 +43,8 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - Date: Nov 19, 2017
 - [Source](https://archive.fo/ZFDBf#selection-953.0-977.216)
 
+### Bitstamp
+- Amount: 18,000 BTC
+- Date: Jan 4, 2015
+- [Source](https://www.coindesk.com/unconfirmed-report-5-million-bitstamp-bitcoin-exchange/)
+
