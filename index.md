@@ -13,7 +13,7 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - [Source](https://cointelegraph.com/news/coincheck-stolen-534-mln-nem-were-stored-on-low-security-hot-wallet)
 
 ### Coinrail
-- Amount: 1,927 ETH | 93M ATX | 2.6B NPXS | 831M DENT
+- Amount: 1,927 ETH + 93M ATX + 2.6B NPXS + 831M DENT
 - Date: June 10, 2018
 - [Source](https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos/)
 
