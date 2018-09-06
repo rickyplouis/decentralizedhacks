@@ -13,7 +13,7 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - [Source](https://cointelegraph.com/news/coincheck-stolen-534-mln-nem-were-stored-on-low-security-hot-wallet)
 
 ### Coinrail
-- Amount: 1,927 ETH, 93M ATX, 2.6B NPXS, 831M DENT
+- Amount: 1,927 ETH + 93M ATX + 2.6B NPXS + 831M DENT
 - Date: June 10, 2018
 - [Source](https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos/)
 
@@ -34,7 +34,7 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - [Github](https://github.com/paritytech/parity-ethereum/issues/6995)
 
 ### Cryptsy
-- Amount: 13,000 BTC, 300,000 LTC
+- Amount: 13,000 BTC + 300,000 LTC
 - Date: 2014
 - [Source](https://news.bitcoin.com/vanished-cryptsy-ceo-big-vern-ordered-to-pay-8m-in-class-action-lawsuit/)
 
