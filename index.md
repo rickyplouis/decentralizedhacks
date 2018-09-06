@@ -7,6 +7,11 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - Date: Feb 7, 2014
 - [Source](https://blockonomi.com/mt-gox-hack/)
 
+### Coincheck
+- Amount: 523M NEM
+- Date: Jan 26, 2018
+- [Source](https://cointelegraph.com/news/coincheck-stolen-534-mln-nem-were-stored-on-low-security-hot-wallet)
+
 ### Coinrail
 - Amount: 1,927 ETH | 93M ATX | 2.6B NPXS | 831M DENT
 - Date: June 10, 2018
