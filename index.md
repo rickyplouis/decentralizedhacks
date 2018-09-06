@@ -48,3 +48,7 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - Date: Jan 4, 2015
 - [Source](https://www.coindesk.com/unconfirmed-report-5-million-bitstamp-bitcoin-exchange/)
 
+### Bitfinex
+- Amount: 120,000 BTC
+- Date: Aug 2016
+- [Source](https://en.wikipedia.org/wiki/Bitfinex_hack)
