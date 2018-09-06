@@ -57,3 +57,8 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - Amount: 17M Nano
 - Date: Feb 8, 2018
 - [Source](https://cointelegraph.com/news/strange-twists-and-turns-of-nano-and-bitgrail-since-the-150-mln-hack)
+
+### Nicehash
+- Amount: 4,000 BTC
+- Date: Dec 6, 2017
+- [Source](https://www.wikitribune.com/article/26595/)
