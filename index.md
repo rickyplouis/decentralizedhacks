@@ -52,3 +52,8 @@ This list consists of hacks to smart contracts, dApps, and wallets. If you want 
 - Amount: 120,000 BTC
 - Date: Aug 2016
 - [Source](https://en.wikipedia.org/wiki/Bitfinex_hack)
+
+### Bitgrail
+- Amount: 17M Nano
+- Date: Feb 8, 2018
+- [Source](https://cointelegraph.com/news/strange-twists-and-turns-of-nano-and-bitgrail-since-the-150-mln-hack)
